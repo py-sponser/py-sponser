@@ -1,6 +1,6 @@
 <h1 align="center">Hey! 👋, I’m Omar Elsayed</h1>
 <h3 align="center">A Software Developer</h3>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHQ4ajV6cGM4N2M2N3M1eHBteHRodHNzMzg0bzN0MjFuNjR6bjVmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"></img>
+<img align="center" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHQ4ajV6cGM4N2M2N3M1eHBteHRodHNzMzg0bzN0MjFuNjR6bjVmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"></img>
 🚀 I'm a graduated Computer Engineer who has gained expertise in Full Stack Development, Networking, Linux Administration & DevOps, and in both Defensive and Offensive Security. With a demonstrated history of working as a Freelance Software Developer where I successfully developed multiple projects and deployed them into production. I'm proficient in Python, Django, Django REST Framework, React.js, React Native, Tailwind, Bootstrap, Mantine, Linux, Nginx, Docker, K8s, AWS, performing white box penetration tests, and implementing best practices to secure servers, web apps and databases in addition to huge attention to write secure code 🚀 
 
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=py-sponser&theme=react-dark)

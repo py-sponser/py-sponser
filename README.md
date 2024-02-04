@@ -5,7 +5,7 @@
 # 📝 About
 🚀 I'm a graduated Computer Engineer who has gained expertise in Full Stack Development, Networking, Linux Administration & DevOps, and in both Defensive and Offensive Security. With a demonstrated history of working as a Freelance Software Developer where I successfully developed multiple projects and deployed them into production. I'm proficient in Python, Django, Django REST Framework, React.js, React Native, Tailwind, Bootstrap, Mantine, Linux, Nginx, Docker, K8s, AWS, performing white box penetration tests, and implementing best practices to secure servers, web apps and databases in addition to huge attention to write secure code 🚀 
 
-# Hi in Python!
+# 🗂️ Hi in Python!
 ```python
 #!/usr/bin/python
 

@@ -7,9 +7,10 @@
 
 <br />
 
+# Hi in Python!
 ```python
 #!/usr/bin/python
-# -*- coding: utf-8 -*-
+
 class SoftwareDeveloper:
 
     def __init__(self):
